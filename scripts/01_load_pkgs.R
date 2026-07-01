@@ -4,7 +4,7 @@
 package_names <- c("DESeq2", "edgeR", "limma", "dplyr", "tidyr", "tibble", "ggplot2", 
                    "pheatmap", "RColorBrewer", "ggrepel", "plotly", "corrplot",
                    "clusterProfiler", "enrichplot", "topGO", "GenomicFeatures",
-                   "rtracklayer", "Biostrings", "DT", "knitr", "kableExtra")
+                   "rtracklayer", "Biostrings", "DT", "knitr", "kableExtra", "readr")
 
 
 # create a function that installs packages if they are not already installed, uses BioCManager,

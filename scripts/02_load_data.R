@@ -17,5 +17,6 @@ cog_annotation_file <- "~/data/processed/cog.txt"
 # COG annotations from https://ftp.ncbi.nih.gov/pub/COG/COG2024/data/ 03.09.2025 
 # COG category definition 
 cog_def_file <- "~/data/processed/cog-24.fun.tab"
+
 # COG term mapping and description
 cog_descr_file <- "~/data/processed/cog-24.def.tab" 
